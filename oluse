@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# SPDX-FileCopyrightText: 2025 Taiga Doi 
+
 import sys
    
 ans = 0.0
