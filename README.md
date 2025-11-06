@@ -1,5 +1,5 @@
 # robosys2025x
-![test](https://github.com/taigerman0012/robosys2025/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/taigerman0012/robosys2025x/actions/workflows/test.yml/badge.svg)
 ロボットシステム学2025
 - このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
 - このパッケージは，Ryuichi Ueda由来のコード（© 2025 Ryuichi Ueda）を利用しています．
