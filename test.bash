@@ -1,5 +1,5 @@
 #!/bin/bash
-# SPDX-FileCopyrightText: 2025 Taiga Doi
+# SPDX-FileCopyrightText: 2025 taigerman0012
 # SPDX-License-Identifier: BSD-3-Clause
 
 ng () {
