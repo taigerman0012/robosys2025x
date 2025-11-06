@@ -1,5 +1,5 @@
-#!/bin/bash -xv
-# 著作権
+#!/bin/bash
+
 ng () {
 	echo ${1}行目が違うよ #$1はngの1番目の引数
 	res=1
