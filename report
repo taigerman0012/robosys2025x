@@ -1,0 +1,9 @@
+#!/usr/bin/python3
+import sys
+
+base = float(sys.argv[1])
+n = float(sys.argv[2])
+
+result = base ** (1 / n)
+
+print(result))
